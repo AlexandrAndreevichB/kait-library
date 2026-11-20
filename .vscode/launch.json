@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "kait-library localhost:8000",
+      "type": "php",
+      "request": "launch",
+      "runtimeExecutable": "C:\\xampp\\php\\php.exe",
+      "runtimeArgs": ["-S", "localhost:8000", "-t", "."],
+      "cwd": "C:\\xampp\\htdocs\\kait-library\\public",
+      "port": 9003
+    }
+  ]
+}
